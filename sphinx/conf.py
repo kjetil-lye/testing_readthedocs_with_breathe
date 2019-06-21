@@ -59,4 +59,4 @@ subprocess.call(['doxygen', 'Doxyfile'],
                 cwd='../docs')
 
 
-html_extra_path = ['../docs/html']
+html_extra_path = ['../docs/documentation/html']
